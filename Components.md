@@ -49,7 +49,12 @@ Reference: Computer Case (Wikipedia)
 
 
 # 7. Case Cooling
+![Cooling](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6332/6332811_sd.jpg;maxHeight=1000;maxWidth=1000)
+> [Computer cooling](https://en.wikipedia.org/wiki/Computer_cooling) is required to remove the waste heat produced by computer components, to keep components within permissible operating temperature limits. Components that are susceptible to temporary malfunction or permanent failure if overheated include integrated circuits such as central processing units (CPUs), chipsets, graphics cards, and hard disk drives.
+Reference: Computer Cooling (Wikipedia)
 
 
 # 8. Power Supply Unit (PSU)
-
+![PSU](https://c1.neweggimages.com/ProductImage/17-438-159-V09.jpg)
+> A [power supply unit](https://en.wikipedia.org/wiki/Power_supply_unit_(computer)) (PSU) converts mains AC to low-voltage regulated DC power for the internal components of a computer. Modern personal computers universally use switched-mode power supplies. Some power supplies have a manual switch for selecting input voltage, while others automatically adapt to the mains voltage.
+Reference: Power Supply Unit (Wikipedia)
