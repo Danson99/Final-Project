@@ -6,3 +6,5 @@ By Daniel Vang
 
 ## Summary
 This tutorial will teach you the important compenents needed, to create a your very own computer.
+
+#### This is a perfect tutorial for beginners.
