@@ -1,1 +1,2 @@
-# Final-Project
+# How to Build a Computer
+By Daniel Vang
