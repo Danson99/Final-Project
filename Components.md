@@ -1,1 +1,1 @@
-# 8 Components Every PC build NEEDS!!
+# Eight Components Every PC build NEEDS!!
