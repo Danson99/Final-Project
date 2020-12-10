@@ -9,3 +9,23 @@
 # 1. Motherboard
 ![Motherboard](https://www.gamersnexus.net/images/media/2013/hardware/asus-maximus-vi.png)
 
+# 2. Central Processing Unit (CPU)
+
+
+# 3. Graphics Processing Unit (GPU)
+
+
+# 4. Random Access Memory (RAM)
+
+
+# 5. Storage Devices
+
+
+# 6. The Case
+
+
+# 7. Case Cooling
+
+
+# 8. Power Supply Unit (PSU)
+
