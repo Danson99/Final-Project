@@ -7,3 +7,5 @@
 
 
 # 1. Motherboard
+![Motherboard](https://www.gamersnexus.net/images/media/2013/hardware/asus-maximus-vi.png)
+
