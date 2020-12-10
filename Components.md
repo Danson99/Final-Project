@@ -17,12 +17,17 @@ Reference: Motherboard (Wikipedia)
 Reference: Central Processing Unit (Wikipedia)
 
 # 3. Graphics Processing Unit (GPU)
-
+![GPU](https://images.unsplash.com/photo-1591488320449-011701bb6704?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+> A [graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit) (GPU) is a specialized, electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, and game consoles. Modern GPUs are very efficient at manipulating computer graphics and image processing. Their highly parallel structure makes them more efficient than general-purpose central processing units (CPUs) for algorithms that process large blocks of data in parallel. In a personal computer, a GPU can be present on a video card or embedded on the motherboard. In certain CPUs, they are embedded on the CPU die.[1]
+Reference: Graphics Processing Unit (Wikipedia)
 
 # 4. Random Access Memory (RAM)
-
+![RAM](https://images.unsplash.com/photo-1562976540-1502c2145186?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80)
+> [Random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM /ræm/) is a form of computer memory that can be read and changed in any order, typically used to store working data and machine code.[1][2] A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory. In contrast, with other direct-access data storage media such as hard disks, CD-RWs, DVD-RWs and the older magnetic tapes and drum memory, the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement.
+Reference: Random-Access Memory (Wikipedia)
 
 # 5. Storage Devices
+
 
 
 # 6. The Case
