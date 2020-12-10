@@ -12,7 +12,9 @@
 Reference: Motherboard (Wikipedia)
 
 # 2. Central Processing Unit (CPU)
-
+![CPU](https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80)
+> A [central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit) (CPU), also called a central processor, main processor or just processor, is the electronic circuitry within a computer that executes instructions that make up a computer program. The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. This contrasts with external components such as main memory and I/O circuitry,[1] and specialized processors such as graphics processing units (GPUs).
+Reference: Central Processing Unit (Wikipedia)
 
 # 3. Graphics Processing Unit (GPU)
 
